@@ -7,8 +7,7 @@ ketik prompt
 composer create-project --prefer-dist laravel/laravel nama_project
 tunggu sampai proses selesai
 ![install](foto/install.png)
-dan apabila success
-![success](foto/success.png)
+dan apabila success ![success](foto/success.png)
 3. buka laravel dan ketik (cd nama_Project)
 buka text editor dan ketik (cd .)
 ![prompt](foto/prompt.png)
