@@ -1,4 +1,4 @@
-# project-laravel 
+# tugas-laravel 
 pastikan sudah menginstall laragon dan composer
 1. jalankan laragon, lalu klik/buka terminal
 ![laragon](foto/laragon.png)
